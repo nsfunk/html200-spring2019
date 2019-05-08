@@ -1,4 +1,4 @@
-let panagramPieces = ['the', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog'];
+let panagramPieces = ['the', 'quick', 'brown', 'fox', 'jumps', 'over', 'a', 'lazy', 'dog'];
 let panagramString = panagramPieces.join(' ');
 
 console.log(panagramString + '.');
